@@ -1,4 +1,4 @@
-package listas.simple;
+package listas.simples;
 
 /**
 *Elemento nodo de una lista simple

@@ -1,4 +1,4 @@
-package listas.simple;
+package listas.simples;
 
 /**
  * Definicion de una lista simple
